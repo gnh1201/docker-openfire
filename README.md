@@ -1,4 +1,4 @@
-# gnh1201/openfire:4.4.4
+# gnh1201/openfire:4.7.0
 
 - [Introduction](#introduction)
   - [Contributing](#contributing)
