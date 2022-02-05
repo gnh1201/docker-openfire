@@ -1,7 +1,7 @@
-FROM openjdk:8u232-jre-slim
-MAINTAINER gizmotronic@gmail.com
+FROM openjdk:8u322-jre-slim
+MAINTAINER gnh1201@gmail.com
 
-ENV OPENFIRE_VERSION=4.4.4 \
+ENV OPENFIRE_VERSION=4.7.0 \
     OPENFIRE_USER=openfire \
     OPENFIRE_DATA_DIR=/var/lib/openfire \
     OPENFIRE_LOG_DIR=/var/log/openfire
